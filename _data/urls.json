@@ -13,12 +13,12 @@
   {
     "text": "Notorius PnG",
     "url": "/projects",
-    "icon": "fa-desktop"
+    "icon": "fa fa-id-card-o"
   },
   {
-    "text": "Resume",
+    "text": "Diary",
     "url": "/#",
-    "icon": "fa-graduation-cap",
+    "icon": "fa fa-book",
   },
  {
     "text": "Lore",
