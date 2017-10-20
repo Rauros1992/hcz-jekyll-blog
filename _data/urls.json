@@ -6,12 +6,12 @@
     "layout": "post"
   },
   {
-    "text": "About",
+    "text": "Background",
     "url": "/about/",
     "icon": "fa-comments"
   },
   {
-    "text": "Projects",
+    "text": "Notorius PnG",
     "url": "/projects",
     "icon": "fa-desktop"
   },
@@ -20,7 +20,7 @@
     "url": "/#",
     "icon": "fa-graduation-cap",
   },
-  {
+ {
     "text": "Github",
     "url": "/#",
     "icon": "fa-github"
