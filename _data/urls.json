@@ -6,7 +6,7 @@
     "layout": "post"
   },
   {
-    "text": "Background",
+    "text": "Charachters",
     "url": "/about/",
     "icon": "fa-comments"
   },
@@ -21,9 +21,9 @@
     "icon": "fa-graduation-cap",
   },
  {
-    "text": "Github",
+    "text": "Lore",
     "url": "/#",
-    "icon": "fa-github"
+    "icon": "fa-info-circle"
   },
   {
     "text": "XML Feed",
