@@ -1,6 +1,6 @@
 ---
 layout: post
 title: Reynard
-categories: others
+categories: charachters
 disqus: false
 ---
