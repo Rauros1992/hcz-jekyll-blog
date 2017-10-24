@@ -5,7 +5,7 @@ categories: charachters
 disqus: false
 ---
   <div class="centerimg"> <img src="/static/img/COS-logo.png"  alt=" "/> </div>
-Biografia del Personaggio
+# Biografia del Personaggio
   <div class="portraitch"> <img src="/static/img/reynard.jpg"  alt=" "/> </div>
 
 Reynard Garasteth

@@ -225,5 +225,5 @@ footer {
   margin: 0 auto;
 }
 .portraitch img{
-  width: 50%;
+  max-width: 50%;
 }
