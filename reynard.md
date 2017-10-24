@@ -1,2 +1,4 @@
-layout: default
+---
+layout: post
 title: Reynard
+---
