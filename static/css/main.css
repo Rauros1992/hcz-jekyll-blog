@@ -221,6 +221,6 @@ footer {
     right: 12px;
 }
 
-.centerimg {
+.centerimg img{
   vertical-align: middle;
 }
