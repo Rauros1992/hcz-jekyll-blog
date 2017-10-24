@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Cool project 1",
+		"name": "Reynard",
 		"image": "placeholder.jpg",
 		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"date": "",
+		"tags": []
 	},
 	{
 		"name": "Cool project 2",
