@@ -4,7 +4,7 @@ title: Reynard
 categories: charachters
 disqus: false
 ---
-<div class="centerimg">
+<div class="centerimg" markdown="1">
 ![COS-logo](/static/img/COS-logo.png) </div>
 Biografia del Personaggio
 
