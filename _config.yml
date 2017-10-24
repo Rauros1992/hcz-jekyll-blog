@@ -1,17 +1,17 @@
-title: 
+title:
 description: Curse of Strahd Blog
 author: Rauros1992
 logo: /static/img/avatar.png
 github: https://github.com/codeasashu
-about: 
+about:
 
 baseurl: ""
 url: ""
 
 allowsearch: false
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+disqus_shortname: 
+google_analytics:
 
 share:
   twitter_username: \#
