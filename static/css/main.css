@@ -43,7 +43,7 @@ p.info a {
 }
 .full img{
     display: block;
-    max-width: 50%;
+    max-width: 40%;
     height: auto;
 }
 .social-icons {
@@ -225,5 +225,6 @@ footer {
   margin: 0 auto;
 }
 .portraitch img{
-  max-width: 50%;
+  float:right;
+
 }
