@@ -10,7 +10,7 @@ disqus: false
 
 Reynard Garasteth
 
-**Descrizione:**
+__**Descrizione:**__
 
 **Allineamento:** Neutrale
 
