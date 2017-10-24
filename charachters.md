@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Charachters
-permalink: /Charachters/
+permalink: /charachters/
 ---
 
 Charachters Info
