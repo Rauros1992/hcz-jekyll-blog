@@ -232,10 +232,8 @@ footer {
 .textcenter {
   text-align: center;
 }
-.sesl {text-decoration: none;
+.sesl {
+  list-style: none;
   text-align: left;
-	font-size:0.9em;
 	padding: 0;
-	margin-left: 20%;
-	margin-top:3px;
 	line-height: 22px;}
