@@ -2,7 +2,7 @@ title:
 description: Curse of Strahd Blog
 author: Rauros1992
 logo: /static/img/avatar.png
-github: https://github.com/codeasashu
+github: https://github.com/
 about:
 
 baseurl: ""
@@ -10,7 +10,7 @@ url: ""
 
 allowsearch: false
 
-disqus_shortname: 
+disqus_shortname:
 google_analytics:
 
 share:
