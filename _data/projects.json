@@ -9,9 +9,9 @@
 	{
 		"name": "Aaron Droverson",
 		"image": "Aaron.jpg",
-		"url": "aaron.md",
-		"date": "May 2014",
-		"tags": ["Android","PHP"]
+		"url": "/aaron.md",
+		"date": "",
+		"tags": []
 	},
 	{
 		"name": "Cool project 3",
