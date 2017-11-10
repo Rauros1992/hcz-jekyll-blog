@@ -1,15 +1,15 @@
 [
 	{
-		"name": "Reynard",
+		"name": "Reynard Garasteth",
 		"image": "reynard_thumb.jpg",
 		"url": "/reynard",
 		"date": "",
 		"tags": []
 	},
 	{
-		"name": "Cool project 2",
-		"image": "placeholder.jpg",
-		"url": "#",
+		"name": "Aaron Droverson",
+		"image": "Aaron.jpg",
+		"url": "aaron.md",
 		"date": "May 2014",
 		"tags": ["Android","PHP"]
 	},
