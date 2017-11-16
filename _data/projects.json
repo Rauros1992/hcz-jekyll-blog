@@ -21,10 +21,25 @@
 		"tags": []
 	},
 	{
-		"name": "Cool project 4",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Android","nodejs"]
+		"name": "Grotek",
+		"image": "grotek_thumb.jpg",
+		"url": "/grotek",
+		"date": "",
+		"tags": []
+	}
+	{
+		"name": "Xander Lafaleim",
+		"image": "xander_thumb.jpg",
+		"url": "/xander",
+		"date": "",
+		"tags": []
+	}
+	{
+		"name": "Auth-Bahor Gos",
+		"image": "auth_thumb.jpg",
+		"url": "/auth",
+		"date": "",
+		"tags": []
 	}
 
 ]
